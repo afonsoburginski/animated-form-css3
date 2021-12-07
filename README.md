@@ -1,7 +1,7 @@
 # Formulário animado com JS puro e CSS Animation
 
 <p align="center">
-    <img src="./formulario.png" alt="Logo" height=360></a>
+    <img src="src/img/formulario.png" alt="Logo" height=630></a>
 
 ## Desafios
 
