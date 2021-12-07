@@ -4,7 +4,7 @@
     <img src="src/img/formulario.png" alt="Logo" height=460></a>
     </h3>
 
-## Animation
+## Desenvolvimento
 
 
 Formulario animado desenvolvido com o objetivo de estudo referente as tecnologias de HTML5, CSS3 e JavaScript. O projeto foi desenvolvido conjunto a aula [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) como base de estudo.
