@@ -1,5 +1,8 @@
 # Formulário animado com JS puro e CSS Animation
 
+<p align="center">
+    <img src="src/Formulario.png" alt="Logo" height=360></a>
+
 ## Desafios
 
 - [x] Fazer o formulário aparecer, suavemente, quando a página abrir
